@@ -1,4 +1,4 @@
-cout << "hello duniya";
+ocout << "hello duniya";
 fake changes
 new chamge
 okayyyy
